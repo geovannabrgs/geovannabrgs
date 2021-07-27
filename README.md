@@ -14,5 +14,4 @@
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like horror movies.
 
-[radical_repo]: https://github-readme-stats.vercel.app/api/pin/?username=geovannnabrgs&repo=github-readme-stats&cache_seconds=86400&theme=radical
 
