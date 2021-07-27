@@ -15,3 +15,5 @@
 - ⚡ Fun fact: I like horror movies.
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannabrgs&layout=compact&theme=gotham&hide_border=true)](https://github.com/ygoliveira/github-readme-stats)
