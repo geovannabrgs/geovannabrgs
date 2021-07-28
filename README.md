@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on front-end projects.
 - 🌱 I’m currently learning web development.
-- 👯 I’m looking to collaborate on projects to decrease time and costs.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love horror movies.
 
