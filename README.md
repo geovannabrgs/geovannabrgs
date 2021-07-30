@@ -8,9 +8,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geovannaborgeszz/)
 
 
-- 🔭 I’m currently working on front-end projects.
-- 🌱 I’m currently learning web development.
-- 😄 Pronouns: She/Her.
+- 👩🏽‍💻 I’m currently working on front-end projects and learning web development.
+- 🙋‍♀️ Pronouns: She/Her.
 - ⚡ Fun fact: I love horror movies.
 
 
