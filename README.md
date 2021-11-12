@@ -18,7 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannabrgs&layout=compact)](https://github.com/geovannabrgs/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovannabrgs&theme=dark&show_icons=true)
 
 
 
