@@ -10,7 +10,7 @@
 
 - 👩🏽‍💻 I’m currently working on front-end projects and learning web development.
 - 🙋‍♀️ Pronouns: She/Her.
-- ⚡ Fun fact: I love horror movies.
+- ⚡ Fun fact: I love horror movies. 
 
 
 
