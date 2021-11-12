@@ -15,5 +15,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannabrgs&layout=compact&theme=radical&hide_border=true)](https://github.com/geovannabrgs/github-readme-stats) 
+
  
