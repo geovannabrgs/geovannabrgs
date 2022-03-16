@@ -13,10 +13,6 @@
 - 🙋‍♀️ Pronouns: She/Her.
 - ⚡ Fun fact: I love horror movies. 
 
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannabrgs&layout=compact)](https://github.com/geovannabrgs/github-readme-stats)
 
 
